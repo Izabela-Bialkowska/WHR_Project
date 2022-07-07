@@ -7,6 +7,8 @@ In this project we perform an Exploratory Data Analysis of the World Happiness R
 We also add 4 additional columns from 3 areas (nature, technology, demographics) to check how they resonate with the Level of happiness in particular countries.
 After the data cleaning and showing some visual charts we create Machine Learning models, which predict the level of happiness based on the particular columns with numeric values.
 
+## Requirements
+[requirements.txt](https://github.com/Izabela-Bialkowska/WHR_Project/blob/main/requirements.txt)
 
 ## Methods Used
 
